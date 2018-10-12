@@ -1,0 +1,154 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #F7F7F7;
+    /* Old browsers */
+    background: -moz-linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+  }
+  
+  /** Header styles **/
+  .header {
+    background-image: url(https://lh3.googleusercontent.com/ls_q8W8EzRbTV1a7RIXd5MqBOeiN-sVnqsrCTAI4bgU2DMIbMzR5WyfjD-loFQf_JvWUr8fJWdyDyt5DORMQpSaBGNcmXU0O1c_gocVNiSzP41PkRPDTBj3k-Ixfi5PakZsMQReDo4msz73PtO_BsKIjDZbToGMXrIY05VJAAkb0281j-_OTzOJenRrjUGQ7jBD2gXPspX9D2Sk_aJc-nKt0txArty3eRChJwBI8Xr_ya8XL5_YbIzV3GBRc1J0pw-jiNzqKEFoclUElY_1yQBWmgxE6V3zrWpyEiCszc7JoVIqXv8RiOyO2omJr0ABbsEiglOn03SiOj6zsLAapFHKqQ6NsCBS5UBMhfytLosTMM2cjPJsG0NfFAPDG1U9aArP_qzpWBnBGduOGqlXMutCIdLTs4UKBqS1-EVum8u7BwblmejfkaCVUYmPjTUHZtDdrBHZpgjOQ6Lhq6Q_a6LdcR1JIVS8QaGxuMXliSjJ7vqk6erM8MVLgwRXoW2r4gL9W7vXZwFXxY5XgrGsUJk_vWhAnautZMAOLecjM1FpmbRJLLLLHdwf_QVf6rUIu2RQklQ__8glaEf7uBr0sjON42UODzKRG-MzzqAIQXjRMZg1xt00KqoxVEYhjfg=w145-h234-no);
+    height: 400px;
+    background-position: center center;
+  }
+  
+  .roasting {
+    margin: 40px auto;
+    padding: 20px 30px 40px 30px;
+    background-color: #6D909C;
+    overflow: auto;
+    width: 75%;
+    border-radius: 4px;
+    align-self: center;
+  }
+  
+  .roasting p {
+    color: #1d2320;
+    text-align: center;
+    line-height: 24px;
+    font-family: 'Roboto Condensed|Roboto Mono', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+  }
+  
+  .spectrum div {
+    font: inherit;
+    padding: 0 20px;
+    color: #FFFFFF;
+    overflow: auto;
+    opacity: 0.9;
+  }
+  
+  .spectrum p {
+    color: #FFFFFF;
+    text-align: left;
+  }
+  
+  /* Roast types */
+  .green {
+    background-color: rgb(143, 188, 143);
+  }
+  
+  .light {
+    background-color: rgb(160, 82, 45);
+  }
+  
+  .city {
+    background-color: rgb(139, 69, 19);
+  }
+  
+  .vienna {
+    background-color: #A52A2A;
+  }
+  
+  .italian {
+    background-color: #000000;
+  }
+  
+  /* Typography */
+  h1 {
+    color: #f3ecec;
+    font-family: 'Covered By Your Grace', sans-serif;
+    font-size: 100px;
+    line-height: 76px;
+    margin: 0;
+    position: relative;
+    text-align: right;
+    top: 70%;
+  }
+  
+  h2 {
+    color: #E4BB97;
+    font-family: 'Raleway', sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    text-align: left;
+    text-transform: uppercase;
+  }
+  
+  h3 {
+    color: #2a26d4;
+    font-family: 'Raleway', sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    text-align: center;
+  }
+  
+  h4 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: .2em;
+  }
+  
+  h5 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    line-height: .2em;
+    font-weight: 300;
+  }
+  
+  /* Page elements */
+  ul {
+    margin: 0 auto;
+    padding: 0;
+    width: 75%;
+  }
+  
+  li {
+    border-bottom: 1px solid #E4BB97;
+    list-style: none;
+    margin: 100px 0px;
+    padding-bottom: 60px;
+  }
+  
+  p {
+    color: #444444;
+    line-height: 32px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+  }
+  
+  a {
+    color: #214E34;
+    font-family: 'Raleway', sans-serif;
+    font-size: 13px;
+    font-weight: 900;
+    text-align: left;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 2px;
+  }
+
+/* Footer */ 
+p {
+    text-align: Center;
+    font-size: Small;
+}
+  
